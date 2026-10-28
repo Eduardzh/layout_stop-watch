@@ -27,7 +27,7 @@ body {
 
   @keyframes move-minute {
     from {
-      transform: rotate(1deg);
+      transform: rotate(0deg);
       transform-origin: bottom;
     }
 
@@ -48,7 +48,7 @@ body {
 
   @keyframes move-second {
     from {
-      transform: rotate(1deg);
+      transform: rotate(0deg);
       transform-origin: bottom;
     }
 
